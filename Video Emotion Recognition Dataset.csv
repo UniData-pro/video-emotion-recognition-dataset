@@ -1,6 +1,0 @@
-id,inner_emotion,facial_emotion,transcript,video,text
-1,Positive,Happy,"Er, hello, my name is Interian and I am, err, an American from Chicago.",video\1.mp4,text\1.txt
-2,Positive,Neutral,"Well, you gotta take in, you gotta take in, err, all the details first of already translated on time.",video\2.mp4,text\2.txt
-3,Hesitant,Neutral,"So, my, I’m half Mexican and my father’s father is from Mexico, born and raised in Mexico, and my mother’s father is also Mexican.",video\3.mp4,text\3.txt
-4,Positive,Angry,Our roommates are stealing our Tupperware again even though we just cleaned it.,video\4.mp4,text\4.txt
-5,Confident,Happy,"All right, so it was a little while ago, and I got a job.",video\5.mp4,text\5.txt
